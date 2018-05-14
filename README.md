@@ -1,13 +1,13 @@
 # Bruno Kuasney
 Curitiba/PR
 
-Formado em estatÌstica, apaixonado por AI, programaÁ„o e dados. Amo o que faÁo e n„o me imagino fazendo outra coisa que n„o ciÍncia de dados e inteligÍncia artificial (esse ˙ltimo mais futuramente). Costumo programar meus tempos ociosos antecipadamente, seja me programando para jogar, para fazer curso, para ficar aleatoriamente pela internet, ir ao cinema, ou um pouco de tudo.
+Formado em estat√≠stica, apaixonado por AI, programa√ß√£o e dados. Amo o que fa√ßo e n√£o me imagino fazendo outra coisa que n√£o ci√™ncia de dados e intelig√™ncia artificial (esse √∫ltimo mais futuramente). Costumo programar meus tempos ociosos antecipadamente, seja me programando para jogar, para fazer curso, para ficar aleatoriamente pela internet, ir ao cinema, ou um pouco de tudo.
 
 ---
 
 ## Cientista de Dados
 
-**Telefone:** (41) 99634-2805 (sinta-se ‡ vontade para mandar Whatsapp)
+**Telefone:** (41) 99634-2805 (sinta-se √† vontade para mandar Whatsapp)
 
 **E-mail:** bruno.kuasney@gmail.com
 
@@ -17,9 +17,9 @@ Formado em estatÌstica, apaixonado por AI, programaÁ„o e dados. Amo o que faÁo e
 
 ---
 
-## FormaÁ„o
+## Forma√ß√£o
 
-* **GraduaÁ„o** - Bacharel em EstatÌstica pela UFPR - **[Completo]**
+* **Gradua√ß√£o** - Bacharel em Estat√≠stica pela UFPR - **[Completo]**
 
 * **Curso** - Hadoop - (Udacity)
 * **Curso** - Hadoop with Pig - (Udemy)
@@ -36,8 +36,8 @@ Formado em estatÌstica, apaixonado por AI, programaÁ„o e dados. Amo o que faÁo e
 
 ## Habilidades
 
-**NegÛcios**
-* EstatÌstica
+**Neg√≥cios**
+* Estat√≠stica
 * Business Intelligence
 * Data Analysis
 * Data Science
@@ -64,11 +64,11 @@ Formado em estatÌstica, apaixonado por AI, programaÁ„o e dados. Amo o que faÁo e
 
 ---
 
-## InformaÁıes adicionais
+## Informa√ß√µes adicionais
 
-* Prezo pelo m·ximo de automaÁ„o possÌvel dos dados e das informaÁıes.
+* Prezo pelo m√°ximo de automa√ß√£o poss√≠vel dos dados e das informa√ß√µes.
 * Interesse em estar sempre aprendendo e me desenvolvendo.
-* Paix„o por dados e informaÁ„o.
+* Paix√£o por dados e informa√ß√£o.
 * Criatividade para resolver os mais distintos problemas.
 * Entusiasta e amante da tecnologia e AI.
 
@@ -77,34 +77,34 @@ Formado em estatÌstica, apaixonado por AI, programaÁ„o e dados. Amo o que faÁo e
 ## Exper√™ncia Profissional
 
 * **Projetos Pessoais**
-> Crawler para raspagem de dados e an·lises autom·ticas, amarrando todo o processo de obtenÁ„o e an·lises no R.
+> Crawler para raspagem de dados e an√°lises autom√°ticas, amarrando todo o processo de obten√ß√£o e an√°lises no R.
 
 > Testes de algoritmos e analises de bases obtidas no Kaggle.
 
-> CriaÁ„o de cursos de estatitÌstica, machine learning e an·lises utilizando o R.
+> Cria√ß√£o de cursos de estatit√≠stica, machine learning e an√°lises utilizando o R.
 
-> Freelances espor·dicos em data science utilizando Python + Machine Learning.
+> Freelances espor√°dicos em data science utilizando Python + Machine Learning.
 
 
 * 2016/Dias Atuais - **Mirum Gency**
-> Atualmente trabalhando na ·rea de BI e Data Science. Desenvolvimento de dashboards automatizados para atender tanto ao cliente quanto aos analistas, que utilizam tal dashboard para obter direcionamentos. 
+> Atualmente trabalhando na √°rea de BI e Data Science. Desenvolvimento de dashboards automatizados para atender tanto ao cliente quanto aos analistas, que utilizam tal dashboard para obter direcionamentos. 
 >
->UtilizaÁ„o de linguagens **sql**, **r**, **python** e ferramentas de visualizaÁ„o, como **tableaut**, **Qlickview**, **DataStudio**, **Klipfolio** e **Excel**. An·lises referentes aos dados obtidos do **Google Analytics**, **Facebook**, **Adwords**, e bases internas de clientes. Realizando **an·lises estatÌsticas** e de **machine learning** para os clientes, como **clusterizaÁıes**, **segmentaÁıes**, **previsıes** e **classificaÁıes**, para um melhor entendimento do negÛcio do cliente e do p˙blico atingido pelo cliente.
+>Utiliza√ß√£o de linguagens **sql**, **r**, **python** e ferramentas de visualiza√ß√£o, como **tableaut**, **Qlickview**, **DataStudio**, **Klipfolio** e **Excel**. An√°lises referentes aos dados obtidos do **Google Analytics**, **Facebook**, **Adwords**, e bases internas de clientes. Realizando **an√°lises estat√≠sticas** e de **machine learning** para os clientes, como **clusteriza√ß√µes**, **segmenta√ß√µes**, **previs√µes** e **classifica√ß√µes**, para um melhor entendimento do neg√≥cio do cliente e do p√∫blico atingido pelo cliente.
 
 * 2015/2016 - **RW1**
-> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlickView. Trabalhando alocado no Terminal de Conteiners de Paranagu·. Elaborando dashbaords na ferramenta com intenÁ„o de automatizar todo o processo e substituir planilhas de Excel para paineis eletrÙnicos em QLickView.
+> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlickView. Trabalhando alocado no Terminal de Conteiners de Paranagu√°. Elaborando dashbaords na ferramenta com inten√ß√£o de automatizar todo o processo e substituir planilhas de Excel para paineis eletr√¥nicos em QLickView.
 >
-> RealizaÁ„o de projeto interno de An·lise de SÈries Temporais utilizando o R e integrando tudo ao QlickView.
+> Realiza√ß√£o de projeto interno de An√°lise de S√©ries Temporais utilizando o R e integrando tudo ao QlickView.
 
 * 2013/2015 - **Volvo Trucks do Brasil**
-> Est·gio na Volvo Trucks, mais especificamente na ·rea de estatÌstica. Analisando taxa de falhas e probabilidade de falhas das peÁas e componentes do caminh„o. ElaboraÁ„o de relatÛrios para diretoria sob demanda. AutomaÁ„o via R e via Macro/Excel para os analistas e engenheiros. CentralizaÁ„o dos dados de pÛs venda para estudos, an·lises pontuais e dashboard para an·lises ongoing.
+> Est√°gio na Volvo Trucks, mais especificamente na √°rea de estat√≠stica. Analisando taxa de falhas e probabilidade de falhas das pe√ßas e componentes do caminh√£o. Elabora√ß√£o de relat√≥rios para diretoria sob demanda. Automa√ß√£o via R e via Macro/Excel para os analistas e engenheiros. Centraliza√ß√£o dos dados de p√≥s venda para estudos, an√°lises pontuais e dashboard para an√°lises ongoing.
 
 * 2011/2013 - **Mirum Agency**
-> Est·gio na ·rea de Business Intelligence (mesma ·rea que atuo nos dias atuais). ElaboraÁ„o de relatÛrios excel, tratamento dos dados para an·lises e elaboraÁ„o de apresentaÁıes para clientes externos.
+> Est√°gio na √°rea de Business Intelligence (mesma √°rea que atuo nos dias atuais). Elabora√ß√£o de relat√≥rios excel, tratamento dos dados para an√°lises e elabora√ß√£o de apresenta√ß√µes para clientes externos.
 
 * 2010/2011 - **Bosch**
-> Trabalho sazonal para projeto especÌfico dentro da Bosch, ·rea de Engenharia LogÌstica. O projeto consistia na padronizaÁ„o das caixas com componentes recebidos pelo aumoxarifado. Para isso, era necess·ria a tabulaÁ„o dessa informaÁ„o e a confiabilidade dos dados.
+> Trabalho sazonal para projeto espec√≠fico dentro da Bosch, √°rea de Engenharia Log√≠stica. O projeto consistia na padroniza√ß√£o das caixas com componentes recebidos pelo aumoxarifado. Para isso, era necess√°ria a tabula√ß√£o dessa informa√ß√£o e a confiabilidade dos dados.
 
 * 2008/2009 - **CNH - Case New Holland**
-> Atuei como menor aprendiz na New Holland. Sendo menor aprendiz em EletrÙnica, onde comecei a pegar gosto por excel, dados e programaÁ„o. Na Època, era realizado trabalhos simples, como soldagem de componentes eletrÙnicos, avaliaÁ„o de problemas em placas eletrÙnicas, programaÁ„o em componentes eletrÙnicos e pequenas an·lises em Excel.
+> Atuei como menor aprendiz na New Holland. Sendo menor aprendiz em Eletr√¥nica, onde comecei a pegar gosto por excel, dados e programa√ß√£o. Na √©poca, era realizado trabalhos simples, como soldagem de componentes eletr√¥nicos, avalia√ß√£o de problemas em placas eletr√¥nicas, programa√ß√£o em componentes eletr√¥nicos e pequenas an√°lises em Excel.
 
