@@ -7,7 +7,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 
 ## Cientista de Dados
 
-**Telefone:** (41) 99634-2805 (sinta-se à vontade para mandar Whatsapp)
+**Telefone:** (41) 99634-2805
 
 **E-mail:** bruno.kuasney@gmail.com
 
@@ -53,8 +53,8 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * MongoDB
 * Pig
 * Klipfolio (DataVis)
-* QlickView (DataVis)
-* QLickSense (DataVis)
+* QlikView (DataVis)
+* QlikSense (DataVis)
 * Tableaut (DataVis)
 * DataStudio (DataVis)
 * R/Shiny Dashboard (DataVis)
@@ -92,7 +92,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 >Utilização de linguagens **sql**, **r**, **python** e ferramentas de visualização, como **tableaut**, **Qlickview**, **DataStudio**, **Klipfolio** e **Excel**. Análises referentes aos dados obtidos do **Google Analytics**, **Facebook**, **Adwords**, e bases internas de clientes. Realizando **análises estatísticas** e de **machine learning** para os clientes, como **clusterizações**, **segmentações**, **previsões** e **classificações**, para um melhor entendimento do negócio do cliente e do público atingido pelo cliente.
 
 * 2015/2016 - **RW1**
-> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlickView. Trabalhando alocado no Terminal de Conteiners de Paranaguá. Elaborando dashbaords na ferramenta com intenção de automatizar todo o processo e substituir planilhas de Excel para paineis eletrônicos em QLickView.
+> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlikView. Trabalhando alocado no Terminal de Conteiners de Paranaguá. Elaborando dashbaords na ferramenta com intenção de automatizar todo o processo e substituir planilhas de Excel para paineis eletrônicos em QLickView.
 >
 > Realização de projeto interno de Análise de Séries Temporais utilizando o R e integrando tudo ao QlickView.
 
