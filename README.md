@@ -21,18 +21,21 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 
 * **Graduação** - Bacharel em Estatística pela UFPR - **[Completo]**
 
-* **Curso** - Hadoop - (Udacity)
-* **Curso** - Hadoop with Pig - (Udemy)
-* **Curso** - Hadoop with Spark - (Udemy)
-* **Curso** - Tensorflow and Google Cloud ML - (Udemy)
-* **Curso** - Machine Learning with Python - (Udemy)
-* **Curso** - MongoDB (Udemy)
+**Cursos**
+* Hadoop|mapReduce with Pig
+* Hadoop|mapReduce with Hive
+* Hadoop|mapReduce with Spark | pySpark 
+* Hadoop|mapReduce with Python
+* Tensorflow and Google Cloud ML | Python
+* Machine Learning with Python
+* Machine Learning with R
+* MongoDB
 
-* **Curso em andamento** - Redes Neurais e Deep Learning (Udemy)
+* **Curso em andamento** - Scala | Cassandra
 
-* **Curso Futuro** - Deep Learning (Udacity)
-* **Curso Futuro** - Reinforcement Learning
-* **Curso Futuro** - AI 
+* **Curso Futuro (2/2018)** - Redes Neurais Deep Learning (Udacity)
+* **Curso Futuro (1/2019)** - Reinforcement Learning
+* **Curso Futuro (1/2019)** - AI 
 
 ## Habilidades
 
@@ -43,24 +46,26 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Data Science
 
 **Data Science**
-* R
-* Python
-* Pig
-* Spark
-* Map Reduce
+* R (data visualization; machine learning; estatística; tratamento de dados)
+* Python (machine learning; estatística; mapreduce; pandas; numpy; scikit learn) 
+* Pig (mapreduce; consultas)
+* pySpark (mapreduce; consultas)
+* Hive (mapreduce; consusltas)
 * Machine Learning R
 * Machine Learning Python
 * MongoDB
-* Pig
-* Klipfolio (DataVis)
-* QlikView (DataVis)
-* QlikSense (DataVis)
-* Tableaut (DataVis)
-* DataStudio (DataVis)
-* R/Shiny Dashboard (DataVis)
-* Ferramentas Office
-* Macros Excel (com VBA)
+* Cassandra
+* HBase
 * Postgresql
+* Klipfolio (DataVis; Dashboards)
+* QlikView (DataVis; Dashboard)
+* QlikSense (DataVis; Dashboard)
+* Tableaut (DataVis; Dashboard)
+* DataStudio (DataVis; Dashboard)
+* R/Shiny Dashboard (DataVis; Dashboard)
+* Ferramentas Office
+* Macros Excel (+VBA)
+
 
 ---
 
