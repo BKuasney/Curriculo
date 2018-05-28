@@ -19,7 +19,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 
 ## Formação
 
->**Graduação** - Bacharel em Estatística pela UFPR - **[Completo/2016]**
+>>**Graduação** - Bacharel em Estatística pela UFPR - **[Completo/2016]**
 
 >**Cursos**
 * Hadoop|mapReduce with Pig
