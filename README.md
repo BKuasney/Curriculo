@@ -30,6 +30,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Machine Learning with Python
 * Machine Learning with R
 * MongoDB
+* HBase
 
 * **Curso em andamento** - Scala | Cassandra
 
