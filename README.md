@@ -66,6 +66,12 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * R/Shiny Dashboard (DataVis; Dashboard)
 * Ferramentas Office
 * Macros Excel (+VBA)
+* Google Analytics
+* Mensuração de Campanhas Online
+* Análise CRM (Clusterizações; Classificações; Análise Preditivas)
+* Life Time Value e Análise de obrevivência
+* Teste de Hipóteses
+* Algoritmos de Machine Learning
 
 
 ---
