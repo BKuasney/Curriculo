@@ -72,6 +72,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Life Time Value e Análise de obrevivência
 * Teste de Hipóteses
 * Algoritmos de Machine Learning
+* Versionamento (Github; bitbucket; Gitlab)
 
 
 ---
