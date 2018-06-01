@@ -54,6 +54,8 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Hive (mapreduce; consusltas)
 * Machine Learning R
 * Machine Learning Python
+* Redes Naurais (breve conhecimento)
+* Reinforcement Learning (breve conhecimento)
 * MongoDB
 * Cassandra
 * HBase
