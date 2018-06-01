@@ -93,9 +93,13 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 
 * **Projetos Pessoais**
 > Crawler para raspagem de dados e análises automáticas, amarrando todo o processo de obtenção e análises no R.
+
 > Testes de algoritmos e analises de bases obtidas no Kaggle.
+
 > Criação de cursos de estatitística, machine learning e análises utilizando o R.
+
 > Desenvolvimento de curso "from excel to AI" para plataformas digitais (Udemy). Em andamento (longo prazo).
+
 > Freelances esporádicos em data science utilizando R/Python + Machine Learning.
 
 
