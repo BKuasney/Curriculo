@@ -1,7 +1,7 @@
 # Bruno Kuasney
 Curitiba/PR
 
-Formado em estatística, apaixonado por AI, programação e dados. Amo o que faço e não me imagino fazendo outra coisa que não ciência de dados e inteligência artificial (esse último mais futuramente). Costumo programar meus tempos ociosos antecipadamente, seja me programando para jogar, para fazer curso, para ficar aleatoriamente pela internet, ir ao cinema, ou um pouco de tudo.
+Formado em estatística, apaixonado por AI, programação e dados. Amo o que faço e não me imagino fazendo outra coisa que não ciência de dados e inteligência artificial (esse último mais futuramente). Costumo programar meus tempos ociosos antecipadamente, seja me programando para jogar, para fazer curso, para ficar aleatoriamente pela internet, ir ao cinema, ou um pouco de tudo. Costumo ser inquieto e "acelerado", gosto sempre de estar fazendo alguma coisa, principalmente se ainda não conheço/domino essa coisa... Gosto de aprender coisas novas, indo desde linguagens, algoritmos, features, ou até mesmo coisas sobre o universo, games e novas tecnologias. Amo qualquer assunto relacionado ao Universo, Tempo e Tecnologia e costumo dizer que prefiro estudar do que ir à academia.
 
 ---
 
