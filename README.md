@@ -26,9 +26,14 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Hadoop|mapReduce with Hive
 * Hadoop|mapReduce with Spark | pySpark 
 * Hadoop|mapReduce with Python
+* Ambiente Ambari/Hue
+* BigQuery
+* Drill
+* Presto
 * Tensorflow and Google Cloud ML | Python
 * Machine Learning with Python
 * Machine Learning with R
+* Cassandra
 * MongoDB
 * HBase
 
