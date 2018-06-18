@@ -37,7 +37,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * MongoDB
 * HBase
 
-* **Curso em andamento** - Scala | Cassandra
+* **Curso em andamento** - Scala | Spark
 
 * **Curso Futuro (2/2018)** - Redes Neurais Deep Learning (Udacity)
 * **Curso Futuro (1/2019)** - Reinforcement Learning
