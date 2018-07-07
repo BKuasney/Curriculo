@@ -30,6 +30,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * BigQuery
 * Drill
 * Presto
+* RapidMiner | Weka | Knime - (ETL e Machine Learning)
 * Tensorflow and Google Cloud ML | Python
 * Machine Learning with Python
 * Machine Learning with R
@@ -80,7 +81,7 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 * Teste de Hipóteses
 * Algoritmos de Machine Learning
 * Versionamento (Github; bitbucket; Gitlab)
-
+* RapidMiner | Weka | Knime (ETL e algoritmos machine learning)
 
 ---
 
