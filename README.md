@@ -1,7 +1,17 @@
 # Bruno Kuasney
 Curitiba/PR
 
-Formado em estatística, apaixonado por AI, programação e dados. Amo o que faço e não me imagino fazendo outra coisa que não ciência de dados e inteligência artificial (esse último mais futuramente). Costumo programar meus tempos ociosos antecipadamente, seja me programando para jogar, para fazer curso, para ficar aleatoriamente pela internet, ir ao cinema, ou um pouco de tudo. Costumo ser inquieto e "acelerado", gosto sempre de estar fazendo alguma coisa, principalmente se ainda não conheço/domino essa coisa... Gosto de aprender coisas novas, indo desde linguagens, algoritmos, features, ou até mesmo coisas sobre o universo, games e novas tecnologias. Amo qualquer assunto relacionado ao Universo, Tempo e Tecnologia e costumo dizer que prefiro estudar do que ir à academia.
+Formado em estatística, apaixonado por AI, programação e dados. Amo o que faço e não me
+imagino fazendo outra coisa que não ciência de dados e inteligência artificial (esse último mais
+futuramente). Atuando com Data Science, Machine Learning, Big Data, Data Visualization, Deep
+Learning. Atualmente trabalhando voltado para Marketing Digital. Desenvolvimento de ETL,
+construção de painéis automatizados (Klipfolio, QlikView, QlikSense, Tableaut, Data Studio),
+automação de processos (SQL, R e Python), análise de dados e modelagens estatísticas através de
+algoritmos de Machine Learning, utilizando ferramentas como R e Python. Utilização de
+ferramentas como Hadoop e ecossistemas hadoop (cloudera e hortonworks), banco de dados
+NoSQL, pig, hive, pySpark, etc. Utilizando tais skills para suprir demandas de outros setores, obter
+insights, modelagens estatísticas e desenvolvimento e manutenção de algoritmos de machine
+learning.
 
 ---
 
@@ -108,24 +118,55 @@ Formado em estatística, apaixonado por AI, programação e dados. Amo o que fa�
 
 > Freelances esporádicos em data science utilizando R/Python + Machine Learning.
 
+> Atualização de blog pessoal recém criado sobre Data Science / Machine Learning no
+medium
+
 
 * 2016/Dias Atuais - **Mirum Gency**
-> Atualmente trabalhando na área de BI e Data Science. Elaboração de estudos para estratégia de clientes e estratégia de investimentos. Algoritmos de ML tais como classificações, regressões e clusterizaçoes para auxiliar nas análises e tomadas de decisões e investimento. Estudos para tornar a publicidade mais assertiva, sabendo onde mostrar e para quem mostrar a publiciação. Análise de CRM para identificação de público alvo e estratégia de marketing. Estudos utilizando variáveis externas que possam ser influentes para auxilio de investimento e previsão de comportamento. Desenvolvimento tanto de estudos e insights quanto dashboards automatizados para atender tanto ao cliente quanto aos analistas, que utilizam tal dashboard para obter direcionamentos.
+> Atualmente trabalhando na área de Data Science voltado ao marketing digital.
+Elaboração de estudos para estratégia de clientes e estratégia de investimentos.
+Algoritmos de ML tais como classificações, regressões e clusterizações para auxiliar
+nas análises e tomadas de decisões e investimento. Análises tais como churn,
+tendências, previsões de leads e análises estratégicas, Estudos para tornar a
+publicidade mais assertiva, sabendo onde mostrar e para quem mostrar a publicação.
+Análise de CRM para identificação de público alvo e estratégia de marketing. Estudos
+utilizando variáveis externas que possam ser influentes para auxilio de investimento e
+previsão de comportamento. Desenvolvimento tanto de estudos e insights quanto
+dashboards automatizados para atender tanto ao cliente quanto aos analistas
+internos, que utilizam tal dashboard para obter direcionamentos. Utilização de
+machine learning para análises preditivas e prescritivas e utilização de modelagens
+estatísticas. Realizações de testes de hipóteses para comparação de amostra e
+controle. Teste A/B para confirmações de hipóteses em relação à linhas criativas e site.
+Análise de sobrevivência e life time value.
 >
 > Atendendo clientes como Volvo Trucks, Volvo Buses, Cyrela, Sky, Nextel, Porto Seguro, Banco Original, Itaú, Tigre, Gazeta do Povo, Unicesumar, Almundo, Samsung, entre outros.
 >
 >Utilização de linguagens **sql**, **r**, **python** e ferramentas de visualização, como **tableaut**, **Qlickview**, **DataStudio**, **Klipfolio** e **Excel**. Análises referentes aos dados obtidos do **Google Analytics**, **Facebook**, **Adwords**, e bases internas de clientes. Realizando **análises estatísticas** e de **machine learning** para os clientes, como **clusterizações**, **segmentações**, **previsões** e **classificações**, para um melhor entendimento do negócio do cliente e do público atingido pelo cliente.
 
 * 2015/2016 - **RW1**
-> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlikView. Trabalhando alocado no Terminal de Conteiners de Paranaguá. Elaborando dashbaords na ferramenta com intenção de automatizar todo o processo e substituir planilhas de Excel para paineis eletrônicos em QLickView.
+> Atuei como consultor de Business Inteliggence, utilizando a ferramenta QlikView.
+Trabalhando alocado no Terminal de Conteiners de Paranaguá. Elaborando
+dashbaords na ferramenta com intenção de automatizar todo o processo e substituir
+planilhas de Excel para paineis eletrônicos em QLickView.
 >
 > Realização de projeto interno de Análise de Séries Temporais utilizando o R e integrando tudo ao QlickView.
 
 * 2013/2015 - **Volvo Trucks do Brasil**
-> Estágio na Volvo Trucks, mais especificamente na área de estatística. Analisando taxa de falhas e probabilidade de falhas das peças e componentes do caminhão. Elaboração de relatórios para diretoria sob demanda. Automação via R e via Macro/Excel para os analistas e engenheiros, tornando algumas análises e outputs mais automatizados, economizando o tempo de desenvolviemnto de inúmeros relatórios mensais para os analistas. Centralização dos dados de pós venda para estudos, análises pontuais e dashboard para análises ongoing.
+> Estágio na Volvo Trucks, mais especificamente na área de estatística. Analisando taxa
+de falhas e probabilidade de falhas das peças e componentes do caminhão, utilizando
+de modelagem estatísticas. Elaboração de dashboards para consumo interno.
+Automação via R/Python e via Macro/Excel para os analistas e engenheiros, tornando
+algumas análises e outputs mais automatizados, economizando o tempo de
+desenvolvimento de inúmeros relatórios mensais para os analistas. Centralização dos
+dados de pós venda, utilizando-as para estudos de predições de receita, predições de
+custos, probabilidade de falhas e custo provável, etc.
 
 * 2011/2013 - **Mirum Agency**
-> Estágio na área de Business Intelligence (mesma área que atuo nos dias atuais). Elaboração de relatórios excel, tratamento dos dados para análises e elaboração de apresentações para clientes externos.
+> Estágio na área de data science voltado para marketing digital. Desenvolvimento de
+dashbaords, automação de dashboards e relatórios, análises ad-hoc sob demanda do
+cliente, análises extras para insights para o pessoal de mídia. Estudos com utilização
+de modelagens estatísticas para prever melhor estratégias para determinado público.
+Análises de testes de hipóteses, testes A/B e análises preditivas e prescritivas.
 
 * 2010/2011 - **Bosch**
 > Trabalho sazonal para projeto específico dentro da Bosch, área de Engenharia Logística. O projeto consistia na padronização das caixas com componentes recebidos pelo aumoxarifado. Para isso, era necessária a tabulação dessa informação e a confiabilidade dos dados.
